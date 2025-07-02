@@ -7,3 +7,8 @@
 # 📝 Task 2:  Fundamentals of AI/ML - Course Completion  
 - ✅ **Status**: Completed on 12th june 2025  
 - 📜 **Certificate**: [View Certificate](https://drive.google.com/file/d/11glJ5adC0th56llKaHq4PbHIC9xerzc5/view?usp=drive_link) 
+
+
+# 📝 Task 3:  Fundamentals of Deep Learning- Course Completion  
+- ✅ **Status**: Completed on 26th june 2025  
+- 📜 **Certificate**: [View Certificate](https://drive.google.com/drive/u/0/folders/1shsQ8YW0-vuglXCbWw9GSBtspRvhAf40) 
